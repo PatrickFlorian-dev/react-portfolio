@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Boilerplate, adding scaffolding in next commit in seperate branch 
+          Testing scaffolding branch commit 
         </p>
       </header>
     </div>
