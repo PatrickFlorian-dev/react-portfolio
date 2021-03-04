@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* Changing this in scaffolding branch */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
