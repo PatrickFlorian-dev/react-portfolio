@@ -1,4 +1,4 @@
-import logo from './mylogo.png';
+// import logo from './mylogo.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Boilerplate, adding scaffolding in next commit 
+          Boilerplate, adding scaffolding in next commit in seperate branch 
         </p>
       </header>
     </div>
