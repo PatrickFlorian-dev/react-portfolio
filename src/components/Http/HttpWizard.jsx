@@ -8,7 +8,7 @@ export const HttpWizard = (data , curBackend , curHttpMethod) => {
 
     switch (curBackend) {
         case '1':
-            backendUrl = 'https://somelocalbackend/someport'
+            backendUrl = 'https://somelocalbackend/someport';
             break;
     
         default:
